@@ -1,0 +1,42 @@
+body{
+    font-family:  Roboto;
+    background-image: linear-gradient(to right,#042C55,#042C55, #042C55 ,#042C55, #1B79DD);
+}
+h1,h2{
+    text-align: center;
+    background : linear-gradient(to bottom right, #B370DE, #F19565);
+    -webkit-background-clip:text;
+    background-clip: text;
+    color:transparent;
+}
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+    background-color: white;
+}
+td,th{
+    height : 30px;
+    width : 50px;
+}
+th{
+    background: #FFB6C1;
+    color :white;
+}
+p{
+    color : black;
+    opacity: 40%;
+    font-size: 12px;
+}
+hr{
+    width:50%;
+    height : 3px;
+    text-align:center;
+    background: linear-gradient(to right, #B370DE, #F19565);
+}
+img{
+    width:200px;
+    height:225px;
+}
+a{
+    color : black;
+}
